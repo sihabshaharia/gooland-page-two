@@ -1,0 +1,170 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media screen and (max-width: 1199px){
+	h1{
+		font-size: 60px;
+		line-height: 70px;
+	}
+	.counter,
+	h2{
+		font-size: 42px;
+		line-height: 52px;
+	}
+	h3{
+		font-size: 32px;
+		line-height: 42px;
+	}
+	h4{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	h5{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	h6{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.table-box td {padding: 0 3px;}
+	.copy-right h2{font-size: 27px;}
+}
+
+@media screen and (max-width: 991px) {
+	h1{
+		font-size: 42px;
+		line-height: 50px;
+	}
+	.counter,
+	h2{
+		font-size: 36px;
+		line-height: 45px;
+	}
+	h3{
+		font-size: 32px;
+		line-height: 42px;
+	}
+	h4{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	h5{
+		font-size: 22px;
+		line-height: 32px;
+	}
+	h6{
+		font-size: 20px;
+		line-height: 30px;
+	}
+	span{
+		font-size: 16px;
+		line-height: 26px;
+	}
+	p{
+		font-size: 14px;
+		line-height: 24px;
+	}
+	.menu-section{
+		background: #e3eafb;
+	}
+	.header-box{
+		margin: 0;
+	}
+	.header-bottom-right{
+		text-align: center;
+	}
+
+	.cryptocurrency-logo {
+		border-radius: 10px;
+		margin: 0;
+		border: none;
+	}
+	.table-responsive-item{ overflow-x: auto;}
+	.table-item{
+		width: 992px;
+	}
+	.header-section{
+		padding-bottom: 0;
+	}
+	.search-section{
+		padding: 30px 0;
+	}
+	.cryptocurrency-section{
+		margin-bottom: 0;
+		padding-bottom: 120px;
+	}
+	.pb-60{
+		padding-bottom: 30px;
+	}
+	.pt-60{
+		padding-top: 30px;
+	}
+	.feature-section{
+		margin-top: 0;
+		padding-top: 0;
+	}
+	.feature-header-section {
+		background: #e3eafb;
+		padding-left: 0px;
+		padding-bottom: 70px;
+		margin-left: 0%;
+	}
+	.feature-three, .feature-one,
+	.feature-box{
+		margin-top: 0;
+	}
+	.feature-text{
+		text-align: center;
+	}
+	.feature-two, .feature-four{
+		margin-top: 0;
+	}
+	.get-logo{
+		text-align: center;
+	}
+	.counter{
+		width: 60px;
+	}
+	.menu-section .nice-select,
+	.sticky-menu .nice-select{
+		padding-left: 0px;
+	}
+}
+  
+
+@media screen and (max-width: 768px) {
+	.single-testimonial-box{
+		display: block;
+	}
+	.single-box{
+		padding-top: 20px;
+	}
+	.copy-right,
+	.social-link{
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.right-btn{
+		position: inherit;
+		display: inline-block;
+		left: 35%;
+		margin-top: 10px;
+	}
+}
+
+@media screen and (max-width: 414px) {
+	.social-link ul li a{
+		margin: 0 3px;
+	}
+
+}
+
+@media screen and (max-width: 360px) {}
+
+/*******************************
+	All Responsive Code end
+*******************************/
